@@ -1,6 +1,6 @@
-#  Entrega: Trabalhando em equipe com git.
+# Entrega: Trabalhando em equipe com git.
 
-##  Fato sobre <nome do dev>
+## Fato sobre <nome do dev>
 
 1. Thiago Macedo;
 2. Aos poucos vou aprendendo;
